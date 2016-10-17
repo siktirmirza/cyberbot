@@ -1,3 +1,1 @@
-# cyberbot
-A Fork Of CyberBot :D
-Thanks To Pouria :DDD
+# این یادگار من است هرکس بخواند خر است:|
